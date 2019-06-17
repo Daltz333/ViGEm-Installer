@@ -1,3 +1,5 @@
+This thing is old and deprecated, definitely won't work. Use the installer at https://github.com/ViGEm/ViGEmClient/releases
+
 # ViGEm-Installer
 Powershell Script for automating the ViGEm install process
 
